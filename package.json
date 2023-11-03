@@ -1,0 +1,14 @@
+{
+  "name": "sbt",
+  "module": "./src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "o1js": "^0.13.1"
+  }
+}
